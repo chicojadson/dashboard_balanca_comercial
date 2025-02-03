@@ -1,0 +1,10 @@
+dicionario.rds
+ncm_importacao.parquet
+ncm_importacao_bruto.parquet
+ncm_exportacao.parquet
+ncm_exportacao_bruto.parquet
+m_importacao.parquet
+m_importacao_bruto.parquet
+m_exportacao.parquet
+m_exportacao_bruto.parquet
+ncm_exportacao_nordeste.parquet
